@@ -14,5 +14,6 @@ Show top 12 most popular tags in a pie chart:
 
 Options
 ---
-See options for the WordPress function [get_terms()](http://codex.wordpress.org/Function_Reference/get_terms) and for the [Easy Chart Builder plugin](http://www.dyerware.com/main/products/easy-chart-builder-plugin-parameters.html).
+See options for the WordPress function [get_terms()](http://codex.wordpress.org/Function_Reference/get_terms) and for the [Easy Chart Builder plugin](http://www.dyerware.com/main/products/easy-chart-builder-plugin-parameters.html).  Also:
 
+- `showcounts` - Show or hide the count for each category/tag.  Valid values:  `true`, `false`.  Defaults to `true`.
