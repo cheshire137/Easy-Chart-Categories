@@ -14,7 +14,8 @@ Show top 12 most popular tags in a pie chart:
 
 Show the first five categories, sorted by name, without counts, using custom colors, and with a summary data table of counts:
 
-    [easychart_categories showcounts="false" groupcolors="556270, 4ECDC4, C7F464, FF6B6B, C44D58" number="5" orderby="name" order="ASC" hidechartdata="false"]
+    [easychart_categories showcounts="false" groupcolors="556270, 4ECDC4, C7F464, FF6B6B, C44D58" number="5"
+        orderby="name" order="ASC" hidechartdata="false"]
 
 Options
 ---
