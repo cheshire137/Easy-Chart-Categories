@@ -1,6 +1,6 @@
 Easy Chart Categories
 ===
-This is a WordPress plugin that provides a WordPress [shortcode](http://codex.wordpress.org/Shortcode) that will display your categories in a chart and another shortcode that will display your tags.  This plugin requires that the [Easy Chart Builder plugin](http://wordpress.org/extend/plugins/easy-chart-builder/) by [dyerware](http://profiles.wordpress.org/users/dyerware/) is installed and activated.
+This is a WordPress plugin that provides a WordPress [shortcode](http://codex.wordpress.org/Shortcode) that will display your categories in a chart and another shortcode that will display your tags.  This plugin requires that the [Easy Chart Builder plugin](http://wordpress.org/extend/plugins/easy-chart-builder/) by [dyerware](http://profiles.wordpress.org/users/dyerware/) is installed and activated.  See what it looks like on [my blog](http://www.3till7.net/2012/02/18/easy-chart-categories-wordpress-plugin/).
 
 Usage
 ---
